@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabata timer</string>
+    <string name="text_workout_work">WORK</string>
+    <string name="text_workout_rest">REST</string>
+    <string name="text_workout_prepare">PREPARE</string>
+    <string name="text_workout_timer">TIMER</string>
+</resources>
